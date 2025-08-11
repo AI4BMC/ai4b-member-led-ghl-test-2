@@ -1,2 +1,1 @@
-# ai4b-member-led-ghl-test-2
-A multiple choice test on Jet Dexter's GHL Automation Training
+This test was created for members of the AI for business training group. This test was taken from Jet Dexter's weekly GHL Training Series. For more information about the AI for Business training group, please contact michael@ai-forbusiness.ai
